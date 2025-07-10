@@ -16,7 +16,7 @@ MATLAB과 Lock-in Thermography 기법을 활용하여 전자 부품의 비파괴
 - 자동화된 데이터 시각화 및 CSV 저장
 
 ## 🖥 시스템 구성도
-👉 << 시스템 구성도 이미지 삽입 >>
+![image](https://github.com/user-attachments/assets/b4e1f762-81de-4a95-8403-86a4aa483dfe)
 
 - IR 카메라 → 신호 동기화 → FFT 분석 → 결함 검출 → 결과 시각화
 
